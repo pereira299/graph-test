@@ -25,6 +25,13 @@ export default Vue.extend({
     Layout,
     CardProduct,
     CardSales
+  }, 
+  head: {
+    title: 'Manfing | Histórico',
+    meta: [
+      { hid: 'description', name: 'description', content: 'Histórico' },
+    ],
+    link: [{ rel: 'icon', type: 'image/png', href: '/logo.png' }],
   }
 })
 </script>
