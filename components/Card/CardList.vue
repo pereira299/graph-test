@@ -1,5 +1,5 @@
 <template>
-  <Card className="col-6">
+  <Card className="col-12 col-md-5">
     <table class="col-12 table">
       <thead>
         <th>Produto</th>

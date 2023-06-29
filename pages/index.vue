@@ -4,7 +4,7 @@
       Histórico
     </h3>
     <hr class="col-12"/>
-    <div class="d-flex flex-row justify-content-between">
+    <div class="d-flex flex-row justify-content-between flex-wrap">
       <card-product></card-product>
       <card-list></card-list>
     </div>
